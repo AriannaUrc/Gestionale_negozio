@@ -1,0 +1,56 @@
+[
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 1,
+        "prodottoID": 1
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 2,
+        "prodottoID": 1
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 3,
+        "prodottoID": 1
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 1,
+        "prodottoID": 2
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 2,
+        "prodottoID": 2
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 3,
+        "prodottoID": 2
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 4,
+        "prodottoID": 2
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 5,
+        "prodottoID": 2
+    },
+    {
+        "quantita": 10,
+        "data_scadenza": "2025-01-01",
+        "id_batch": 1,
+        "prodottoID": 5
+    }
+]
