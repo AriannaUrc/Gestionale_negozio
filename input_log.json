@@ -1,0 +1,6 @@
+{
+    "nome": "Product Name",
+    "tipo_prod": "ProductType",
+    "prezzo": 19.99,
+    "vietato_min": true
+}

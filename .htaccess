@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /projects/gestionale_negozio/
+RewriteRule ^(.*)$ index.php?url=$1
+</IfModule>

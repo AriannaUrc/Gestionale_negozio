@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "ProductB",
+        "tipo_prod": "Type_2",
+        "prezzo": 19.99,
+        "vietato_min": true,
+        "id": 2
+    },
+    {
+        "nome": "Product C",
+        "tipo_prod": "Type_1",
+        "prezzo": 15.49,
+        "vietato_min": false,
+        "id": 3
+    },
+    {
+        "nome": "Product D",
+        "tipo_prod": "Type_3",
+        "prezzo": 49.99,
+        "vietato_min": true,
+        "id": 4
+    },
+    {
+        "nome": "Product E",
+        "tipo_prod": "Type_2",
+        "prezzo": 9.99,
+        "vietato_min": false,
+        "id": 5
+    },
+    {
+        "nome": "ProductName",
+        "tipo_prod": "ProductType",
+        "prezzo": 19.99,
+        "vietato_min": true,
+        "id": 5
+    }
+]
